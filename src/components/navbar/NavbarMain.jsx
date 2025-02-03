@@ -3,6 +3,7 @@ import NavbarLogo from "./NavbarLogo";
 import NavbarLinks from "./NavbarLinks";
 import NavbarBtn from "./NavbarBtn"; 
 import { GiHamburgerMenu } from "react-icons/gi";
+import { GiSomeIcon } from 'react-icons';
 import { useState } from "react";
 
 const NavbarMain = () => {
